@@ -1,0 +1,19 @@
+button,
+button:hover {
+    background: $secondary;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 40px;
+    
+    a {
+        text-decoration: none;
+        color: white;
+        font-size: .7rem;
+        font-weight: 600;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+}
+

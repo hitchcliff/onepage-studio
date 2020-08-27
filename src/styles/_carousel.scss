@@ -1,0 +1,17 @@
+.carousel-indicators {
+    bottom: -50px;
+
+    li.active{
+        background-color: $secondary;
+    }
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    display: none !important;
+}
+
+
+.Carousel_container___10ac div {
+    height: auto;
+}
