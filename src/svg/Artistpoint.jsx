@@ -16,20 +16,20 @@ const Artistpoint = () => {
             </g>
             <defs>
                 <linearGradient id="paint0_linear" x1="53.6692" y1="202.86" x2="53.6692" y2="16.0024" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#B2D235"/>
-                    <stop offset="1" stop-color="#00AE4D"/>
+                    <stop stopColor="#B2D235"/>
+                    <stop offset="1" stopColor="#00AE4D"/>
                 </linearGradient>
                 <linearGradient id="paint1_linear" x1="107.069" y1="109.431" x2="214.663" y2="109.431" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#B2D235"/>
-                    <stop offset="1" stop-color="#00AE4D"/>
+                    <stop stopColor="#B2D235"/>
+                    <stop offset="1" stopColor="#00AE4D"/>
                 </linearGradient>
                 <linearGradient id="paint2_linear" x1="105.812" y1="201.579" x2="105.812" y2="176.223" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#B2D235"/>
-                    <stop offset="1" stop-color="#00AE4D"/>
+                    <stop stopColor="#B2D235"/>
+                    <stop offset="1" stopColor="#00AE4D"/>
                 </linearGradient>
                 <linearGradient id="paint3_linear" x1="105.812" y1="201.579" x2="105.812" y2="226.936" gradientUnits="userSpaceOnUse">
-                    <stop stop-color="#00AE4D"/>
-                    <stop offset="1" stop-color="#B2D235"/>
+                    <stop stopColor="#00AE4D"/>
+                    <stop offset="1" stopColor="#B2D235"/>
                 </linearGradient>
             </defs>
         </svg>

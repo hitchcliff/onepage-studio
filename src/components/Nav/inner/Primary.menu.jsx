@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { menuList } from "../content/Menu.list"
-import IosArrowDown from 'react-ionicons/lib/IosArrowDown'
+// import IosArrowDown from 'react-ionicons/lib/IosArrowDown'
 
 const PrimaryMenu = () => {
     const [hideShowDropdown, setHideShowDropdown] = useState(false)

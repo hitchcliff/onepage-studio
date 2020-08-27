@@ -1,5 +1,3 @@
-import Counter from "../../Counter/Counter"
-
 import React from 'react'
 import IosPersonOutline from 'react-ionicons/lib/IosPersonOutline'
 import IosBrowsersOutline from 'react-ionicons/lib/IosBrowsersOutline'

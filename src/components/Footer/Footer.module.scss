@@ -23,7 +23,7 @@
         background: $gradientBackground;
         background: $linearBackground;
         
-        z-index: -1;
+        
 
         .details {
             width: 60%;
@@ -37,6 +37,10 @@
             svg {
                 width: 250px;
                 height: auto;
+            }
+
+            img {
+                width: 250px;
             }
 
             ul {
@@ -76,11 +80,9 @@
 
 @media (max-width: 992px) {
     .container {
-
         .container__overlay {
             .details {
                 width: 80%;
-                
             }
         }
     }

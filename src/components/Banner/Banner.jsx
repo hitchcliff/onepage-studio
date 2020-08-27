@@ -12,8 +12,6 @@ const Banner = (props) => {
         image
     } = props;
 
-    
-    console.log(window.innerWidth)
     return (
         <div className={styles.container} style={{backgroundImage: `url(${image})`}}>
             <div className={styles.container__overlay}>
