@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/onepage-studio/static/css/main.4cd069c5.chunk.css",
-    "main.js": "/onepage-studio/static/js/main.6e72f02f.chunk.js",
-    "main.js.map": "/onepage-studio/static/js/main.6e72f02f.chunk.js.map",
+    "main.css": "/onepage-studio/static/css/main.05b0be89.chunk.css",
+    "main.js": "/onepage-studio/static/js/main.49d92bf1.chunk.js",
+    "main.js.map": "/onepage-studio/static/js/main.49d92bf1.chunk.js.map",
     "runtime-main.js": "/onepage-studio/static/js/runtime-main.9825c6d1.js",
     "runtime-main.js.map": "/onepage-studio/static/js/runtime-main.9825c6d1.js.map",
     "static/css/2.62313666.chunk.css": "/onepage-studio/static/css/2.62313666.chunk.css",
-    "static/js/2.c7cf9154.chunk.js": "/onepage-studio/static/js/2.c7cf9154.chunk.js",
-    "static/js/2.c7cf9154.chunk.js.map": "/onepage-studio/static/js/2.c7cf9154.chunk.js.map",
+    "static/js/2.f1021d53.chunk.js": "/onepage-studio/static/js/2.f1021d53.chunk.js",
+    "static/js/2.f1021d53.chunk.js.map": "/onepage-studio/static/js/2.f1021d53.chunk.js.map",
     "index.html": "/onepage-studio/index.html",
-    "precache-manifest.78b583934ad36686bb392f62ca03a1f6.js": "/onepage-studio/precache-manifest.78b583934ad36686bb392f62ca03a1f6.js",
+    "precache-manifest.3c7e5a06809cedcebb5060bcaa2254c2.js": "/onepage-studio/precache-manifest.3c7e5a06809cedcebb5060bcaa2254c2.js",
     "service-worker.js": "/onepage-studio/service-worker.js",
     "static/css/2.62313666.chunk.css.map": "/onepage-studio/static/css/2.62313666.chunk.css.map",
-    "static/css/main.4cd069c5.chunk.css.map": "/onepage-studio/static/css/main.4cd069c5.chunk.css.map",
-    "static/js/2.c7cf9154.chunk.js.LICENSE.txt": "/onepage-studio/static/js/2.c7cf9154.chunk.js.LICENSE.txt",
+    "static/css/main.05b0be89.chunk.css.map": "/onepage-studio/static/css/main.05b0be89.chunk.css.map",
+    "static/js/2.f1021d53.chunk.js.LICENSE.txt": "/onepage-studio/static/js/2.f1021d53.chunk.js.LICENSE.txt",
+    "static/media/Artispoint.svg": "/onepage-studio/static/media/Artispoint.5f06121d.svg",
     "static/media/banner1.jpg": "/onepage-studio/static/media/banner1.7e61138e.jpg",
     "static/media/counter.jpg": "/onepage-studio/static/media/counter.84619eee.jpg",
     "static/media/footer.jpg": "/onepage-studio/static/media/footer.c3d08d2e.jpg",
@@ -34,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.9825c6d1.js",
     "static/css/2.62313666.chunk.css",
-    "static/js/2.c7cf9154.chunk.js",
-    "static/css/main.4cd069c5.chunk.css",
-    "static/js/main.6e72f02f.chunk.js"
+    "static/js/2.f1021d53.chunk.js",
+    "static/css/main.05b0be89.chunk.css",
+    "static/js/main.49d92bf1.chunk.js"
   ]
 }
