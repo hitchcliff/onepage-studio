@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/onepage-studio/static/css/main.4cd069c5.chunk.css",
+    "main.js": "/onepage-studio/static/js/main.6e72f02f.chunk.js",
+    "main.js.map": "/onepage-studio/static/js/main.6e72f02f.chunk.js.map",
+    "runtime-main.js": "/onepage-studio/static/js/runtime-main.9825c6d1.js",
+    "runtime-main.js.map": "/onepage-studio/static/js/runtime-main.9825c6d1.js.map",
+    "static/css/2.62313666.chunk.css": "/onepage-studio/static/css/2.62313666.chunk.css",
+    "static/js/2.c7cf9154.chunk.js": "/onepage-studio/static/js/2.c7cf9154.chunk.js",
+    "static/js/2.c7cf9154.chunk.js.map": "/onepage-studio/static/js/2.c7cf9154.chunk.js.map",
+    "index.html": "/onepage-studio/index.html",
+    "precache-manifest.78b583934ad36686bb392f62ca03a1f6.js": "/onepage-studio/precache-manifest.78b583934ad36686bb392f62ca03a1f6.js",
+    "service-worker.js": "/onepage-studio/service-worker.js",
+    "static/css/2.62313666.chunk.css.map": "/onepage-studio/static/css/2.62313666.chunk.css.map",
+    "static/css/main.4cd069c5.chunk.css.map": "/onepage-studio/static/css/main.4cd069c5.chunk.css.map",
+    "static/js/2.c7cf9154.chunk.js.LICENSE.txt": "/onepage-studio/static/js/2.c7cf9154.chunk.js.LICENSE.txt",
+    "static/media/banner1.jpg": "/onepage-studio/static/media/banner1.7e61138e.jpg",
+    "static/media/counter.jpg": "/onepage-studio/static/media/counter.84619eee.jpg",
+    "static/media/footer.jpg": "/onepage-studio/static/media/footer.c3d08d2e.jpg",
+    "static/media/quote.jpg": "/onepage-studio/static/media/quote.65cc6a25.jpg",
+    "static/media/react-bootstrap-carousel.css": "/onepage-studio/static/media/react-bootstrap-carousel.f7448c04.ttf",
+    "static/media/services1.png": "/onepage-studio/static/media/services1.fac23fc8.png",
+    "static/media/services2.jpg": "/onepage-studio/static/media/services2.45e62c7b.jpg",
+    "static/media/team1.jpg": "/onepage-studio/static/media/team1.2297a81a.jpg",
+    "static/media/team2.jpg": "/onepage-studio/static/media/team2.202d9de1.jpg",
+    "static/media/team3.jpg": "/onepage-studio/static/media/team3.d7ab802d.jpg",
+    "static/media/testimonial1.jpg": "/onepage-studio/static/media/testimonial1.25027d60.jpg",
+    "static/media/testimonial2.jpg": "/onepage-studio/static/media/testimonial2.a25c730f.jpg",
+    "static/media/vision-mission.jpg": "/onepage-studio/static/media/vision-mission.e6e89ddc.jpg",
+    "static/media/work1.jpg": "/onepage-studio/static/media/work1.d944309d.jpg",
+    "static/media/work2.jpg": "/onepage-studio/static/media/work2.907158c8.jpg",
+    "static/media/work3.jpg": "/onepage-studio/static/media/work3.75d62177.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9825c6d1.js",
+    "static/css/2.62313666.chunk.css",
+    "static/js/2.c7cf9154.chunk.js",
+    "static/css/main.4cd069c5.chunk.css",
+    "static/js/main.6e72f02f.chunk.js"
+  ]
+}
