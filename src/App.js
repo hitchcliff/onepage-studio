@@ -2,6 +2,7 @@ import React from 'react';
 import './App.scss';
 
 import {Home, Nav, Footer} from './components'
+import {Circle} from 'react-preloaders';
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Nav></Nav>
       <Home></Home>
       <Footer></Footer>
+      <Circle/>
     </div>
   );
 }
