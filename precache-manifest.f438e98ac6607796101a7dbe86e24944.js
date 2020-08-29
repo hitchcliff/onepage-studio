@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43c56f3fdaf8c7ef4580ee9f8c6bb538",
+    "revision": "0f2dfd72204ff908b519b35308c10693",
     "url": "/onepage-studio/index.html"
   },
   {
-    "revision": "4ef44e6c98b73e850eb2",
+    "revision": "0e6c1a3ea0d332cd61c1",
     "url": "/onepage-studio/static/css/2.62313666.chunk.css"
   },
   {
-    "revision": "00bb3199e409a8a816f2",
+    "revision": "11865b79269f9bd436da",
     "url": "/onepage-studio/static/css/main.05b0be89.chunk.css"
   },
   {
-    "revision": "4ef44e6c98b73e850eb2",
-    "url": "/onepage-studio/static/js/2.ea0cbd46.chunk.js"
+    "revision": "0e6c1a3ea0d332cd61c1",
+    "url": "/onepage-studio/static/js/2.ac63a679.chunk.js"
   },
   {
     "revision": "6ef718eeb39c03c0fcdab1a60b0c6b00",
-    "url": "/onepage-studio/static/js/2.ea0cbd46.chunk.js.LICENSE.txt"
+    "url": "/onepage-studio/static/js/2.ac63a679.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "00bb3199e409a8a816f2",
-    "url": "/onepage-studio/static/js/main.772aa670.chunk.js"
+    "revision": "11865b79269f9bd436da",
+    "url": "/onepage-studio/static/js/main.d4a7ecef.chunk.js"
   },
   {
     "revision": "05ded5f8f50c504c2a74",

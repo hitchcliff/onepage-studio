@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/onepage-studio/static/css/main.05b0be89.chunk.css",
-    "main.js": "/onepage-studio/static/js/main.772aa670.chunk.js",
-    "main.js.map": "/onepage-studio/static/js/main.772aa670.chunk.js.map",
+    "main.js": "/onepage-studio/static/js/main.d4a7ecef.chunk.js",
+    "main.js.map": "/onepage-studio/static/js/main.d4a7ecef.chunk.js.map",
     "runtime-main.js": "/onepage-studio/static/js/runtime-main.e0f5bbf6.js",
     "runtime-main.js.map": "/onepage-studio/static/js/runtime-main.e0f5bbf6.js.map",
     "static/css/2.62313666.chunk.css": "/onepage-studio/static/css/2.62313666.chunk.css",
-    "static/js/2.ea0cbd46.chunk.js": "/onepage-studio/static/js/2.ea0cbd46.chunk.js",
-    "static/js/2.ea0cbd46.chunk.js.map": "/onepage-studio/static/js/2.ea0cbd46.chunk.js.map",
+    "static/js/2.ac63a679.chunk.js": "/onepage-studio/static/js/2.ac63a679.chunk.js",
+    "static/js/2.ac63a679.chunk.js.map": "/onepage-studio/static/js/2.ac63a679.chunk.js.map",
     "index.html": "/onepage-studio/index.html",
-    "precache-manifest.e632ab07461ac0b807d816c847df2403.js": "/onepage-studio/precache-manifest.e632ab07461ac0b807d816c847df2403.js",
+    "precache-manifest.f438e98ac6607796101a7dbe86e24944.js": "/onepage-studio/precache-manifest.f438e98ac6607796101a7dbe86e24944.js",
     "service-worker.js": "/onepage-studio/service-worker.js",
     "static/css/2.62313666.chunk.css.map": "/onepage-studio/static/css/2.62313666.chunk.css.map",
     "static/css/main.05b0be89.chunk.css.map": "/onepage-studio/static/css/main.05b0be89.chunk.css.map",
-    "static/js/2.ea0cbd46.chunk.js.LICENSE.txt": "/onepage-studio/static/js/2.ea0cbd46.chunk.js.LICENSE.txt",
+    "static/js/2.ac63a679.chunk.js.LICENSE.txt": "/onepage-studio/static/js/2.ac63a679.chunk.js.LICENSE.txt",
     "static/media/Artispoint.svg": "/onepage-studio/static/media/Artispoint.5f06121d.svg",
     "static/media/banner1.jpg": "/onepage-studio/static/media/banner1.f7a423a1.jpg",
     "static/media/counter.jpg": "/onepage-studio/static/media/counter.3781d3ed.jpg",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.e0f5bbf6.js",
     "static/css/2.62313666.chunk.css",
-    "static/js/2.ea0cbd46.chunk.js",
+    "static/js/2.ac63a679.chunk.js",
     "static/css/main.05b0be89.chunk.css",
-    "static/js/main.772aa670.chunk.js"
+    "static/js/main.d4a7ecef.chunk.js"
   ]
 }
